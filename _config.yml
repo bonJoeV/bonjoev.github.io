@@ -3,7 +3,5 @@ title: "bonJoeV"
 description: "Joe's Stuff"
 markdown: kramdown
 remote_theme: pages-themes/midnight@v0.2.0
-url: "https://bonJoeV.github.io"
-baseurl: "/C-STEM-Curriculum"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
