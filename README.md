@@ -56,6 +56,10 @@ An innovative project that integrates IoT devices deployed in agricultural setti
 
 ### **Azure Cloud Projects**
 
+#### [Azure Stuff ](https://github.com/bonJoeV/azure-stuff) 
+
+A collection of Just In Time solutions for Azure. I have a private and public repo for this. Occasionally a solution is updated published publicly here. 
+
 #### [Azure Deployment Templates](#) *This went private in November 2021*
 
 A collection of deployment templates for Azure resources, focusing on best practices for infrastructure as code. The templates include:
