@@ -4,10 +4,11 @@
 
 <div style="display: flex; align-items: flex-start;">
   <img src="logo.jpg" alt="Faith and Technology" width="150" style="margin-right: 15px;">
-  <p>
+  <p style="max-width: 450px;">
     Hello! I'm passionate about integrating Catholic faith with Science, Technology, Engineering, and Mathematics (STEM) education. Additionally, I work on projects that combine cutting-edge technology with practical applications in agriculture and cloud computing. My repositories reflect a dedication to creating resources that nurture both the mind and spirit, as well as advancing technological innovation.
   </p>
 </div>
+
 
 ---
 
